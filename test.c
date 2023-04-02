@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-  print("Test code from github - PKRTestRepo Repository");
+  printf("\n\n Test code from github - PKRTestRepo Repository \n\n");
 return 0;
 }
